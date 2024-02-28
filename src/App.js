@@ -32,7 +32,7 @@ function App() {
     <div className="App">
       <div>
         <button onClick={ () =>btnClick1(0) }>{btntxt}</button>
-        <button onClick={ () =>btnClick2() }>정렬</button>
+        <button onClick={ () =>btnClick2() }>정렬!!!</button>
       </div>
       <div>인덱스[0] : {kval[0]}</div>
       <div>인덱스[1] : {kval[1]}</div>
