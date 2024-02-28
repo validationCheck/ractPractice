@@ -38,6 +38,7 @@ function App() {
       <div>인덱스[1] : {kval[1]}</div>
       <div>인덱스[2] : {kval[2]}</div>
       b1!!
+      b2!!
     </div>
   )
 }
